@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://github-readme-stats.vercel.app/api?username=Klu5ure&show_icons=true&theme=transparent)
+
 <!---
 Klu5ure/Klu5ure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

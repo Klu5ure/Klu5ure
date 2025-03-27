@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-### Contributions
+### Recent Contributions
 - 🐞 [PR](https://github.com/648540858/wvp-GB28181-pro/commits?author=Klu5ure) [![Merged](https://img.shields.io/badge/status-merged-brightgreen)](https://github.com/648540858/wvp-GB28181-pro/commits?author=Klu5ure) to [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro): 修复了数据库查询的部分 Bug。
 - 🐞 [PR](https://github.com/MaiM-with-u/MaiBot/commits?author=Klu5ure) [![Merged](https://img.shields.io/badge/status-merged-brightgreen)](https://github.com/MaiM-with-u/MaiBot/commits?author=Klu5ure) to [MaiBot](https://github.com/MaiM-with-u/MaiBot): 修复了表情包系统的部分 Bug。
 - 💻 [PR](https://github.com/beixiaocai/xclabel/commits?author=Klu5ure) [![Merged](https://img.shields.io/badge/status-merged-brightgreen)](https://github.com/beixiaocai/xclabel/commits?author=Klu5ure) to [xclabel](https://github.com/beixiaocai/xclabel): 修复了在 Windows 系统下的部分 Bug，提升跨平台兼容性。

@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klu5ure)
 
 
-
+![:Klu5ure](https://count.getloli.com/@:Klu5ure)
 
 
 <!---

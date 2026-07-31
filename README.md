@@ -9,26 +9,26 @@
 
 ### Recent Contributions
 - **[wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro/commits?author=Klu5ure)**
-  - 🐞 数据库查询与设备通道相关问题修正。
-  - 📝 命名、推流地址示例及文档文字维护。
+  - 🐞 修复了数据库查询的部分 Bug。
+  - 📝 修正文档中的 RTMP 推流地址示例、错别字与标点。
 
 - **[Touhou-Star-Salvation](https://github.com/Jasonlmx/Touhou-Star-Salvation)**
-  - 🚀 优化资源读取缓存，减少重复磁盘 IO。
+  - 🚀 性能优化：将图片 / 音效 / 字体等资源读取统一封装为缓存机制，避免重复从磁盘读取，减少 IO 开销并缓解运行时卡顿。
 
 - **[ddia](https://github.com/Vonng/ddia)**
-  - 📖 参与中文翻译文档维护。
+  - 📖 修订文档中的疏漏。
 
 - **[ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)**
-  - 🐞 提交 RTSP 取流稳定性修复建议。
+  - 🐞 修复 RTSP 取流过程中由于 updateRtcpContext 对空 RtpPacket 解引用而导致的 SIGSEGV 崩溃问题，提高在嵌入式环境下的稳定性。
 
 - **[MaiBot](https://github.com/Mai-with-u/MaiBot/commits?author=Klu5ure)**
-  - 💻 修正跨平台路径处理问题。
+  - 🐞 修复了表情包系统的部分 Bug。
 
 - **[xclabel](https://github.com/beixiaocai/xclabel/commits?author=Klu5ure)**
-  - 💻 改进 Windows 下的路径兼容性。
+  - 💻 修复了在 Windows 系统下的部分 Bug，提升跨平台兼容性。
 
 - **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler/commits?author=Klu5ure)**
-  - 📄 参与文档勘误与维护。
+  - 📄 优化了说明文档。
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klu5ure)

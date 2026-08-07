@@ -31,7 +31,7 @@
   - 📄 优化了说明文档。
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klu5ure)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Klu5ure)
 
 
 ![:Klu5ure](https://count.getloli.com/@:Klu5ure)

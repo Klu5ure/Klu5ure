@@ -5,7 +5,7 @@
 - 📫 You can find me here on GitHub.
 - 😄 Just call me Klu5ure.
 - ⚡ Fixing bugs, collecting stories.
-- 我能吞下玻璃而不伤身体。
+- 🥃 我能吞下玻璃而不伤身体。
 
 
 ### Recent Contributions

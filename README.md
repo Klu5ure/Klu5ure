@@ -9,6 +9,15 @@
 
 
 ### Recent Contributions
+- **[Narwhals](https://github.com/narwhals-dev/narwhals/pull/4124)**
+  - `待审阅` 🐞 提交字符串拆分修复，使特殊分隔符按字面含义处理
+
+- **[Reflex](https://github.com/reflex-dev/reflex/pull/7712)**
+  - `待审阅` 📝 澄清生产模式的启动方式，补充命令示例
+
+- **[Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian/pull/18)**
+  - `已关闭 · 未合并` 📝 提交 README 错字修正；主线已修复同一问题
+
 - **[wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro/commits?author=Klu5ure)**
   - `已合并` 🐞 修复了数据库查询的部分 Bug
   - `已合并` 📝 修正文档中的 RTMP 推流地址示例、错别字与标点

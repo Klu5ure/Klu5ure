@@ -13,7 +13,7 @@
   - `待审阅` 🐞 提交字符串拆分修复，使特殊分隔符按字面含义处理
 
 - **[Reflex](https://github.com/reflex-dev/reflex/pull/7712)**
-  - `待审阅` 📝 澄清生产模式的启动方式，补充命令示例
+  - `已合并` 📝 澄清 `reflex run` 和 `reflex export` 如何通过 `--env` 设置运行模式
 
 - **[Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian/pull/18)**
   - `已关闭 · 未合并` 📝 提交 README 错字修正；主线已修复同一问题

@@ -9,6 +9,9 @@
 
 
 ### Recent Contributions
+- **[computercraft-live-mcp](https://github.com/slashracer5/computercraft-live-mcp/pull/40)**
+  - `已合并` 🐞 修复中继监听通配地址时生成的游戏内连接命令，使其使用可连接的地址
+
 - **[Narwhals](https://github.com/narwhals-dev/narwhals/pull/4124)**
   - `待审阅` 🐞 提交字符串拆分修复，使特殊分隔符按字面含义处理
 

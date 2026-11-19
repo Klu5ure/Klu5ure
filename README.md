@@ -9,39 +9,20 @@
 
 
 ### Recent Contributions
-- **[computercraft-live-mcp](https://github.com/slashracer5/computercraft-live-mcp/pull/40)**
-  - `已合并` 🐞 修复中继监听通配地址时生成的游戏内连接命令，使其使用可连接的地址
 
-- **[Narwhals](https://github.com/narwhals-dev/narwhals/pull/4124)**
-  - `待审阅` 🐞 提交字符串拆分修复，使特殊分隔符按字面含义处理
-
-- **[Reflex](https://github.com/reflex-dev/reflex/pull/7712)**
-  - `已合并` 📝 澄清 `reflex run` 和 `reflex export` 如何通过 `--env` 设置运行模式
-
-- **[Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian/pull/18)**
-  - `已关闭 · 未合并` 📝 提交 README 错字修正；主线已修复同一问题
-
-- **[wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro/commits?author=Klu5ure)**
-  - `已合并` 🐞 修复了数据库查询的部分 Bug
-  - `已合并` 📝 修正文档中的 RTMP 推流地址示例、错别字与标点
-
-- **[Touhou-Star-Salvation](https://github.com/Jasonlmx/Touhou-Star-Salvation)**
-  - `待合并` 🚀 提交资源缓存优化，减少重复读取与运行时卡顿
-
-- **[ddia](https://github.com/Vonng/ddia)**
-  - `已关闭 · 未合并` 📖 提交文档修订，修正文档中的疏漏
-
-- **[ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)**
-  - `已关闭 · 未合并` 🐞 提交 RTSP 取流中的空指针崩溃修复
-
-- **[MaiBot](https://github.com/Mai-with-u/MaiBot/commits?author=Klu5ure)**
-  - `已合并` 🐞 修复了表情包系统的部分 Bug
-
-- **[xclabel](https://github.com/beixiaocai/xclabel/commits?author=Klu5ure)**
-  - `已合并` 💻 修复了在 Windows 系统下的部分 Bug，提升跨平台兼容性
-
-- **[MediaCrawler](https://github.com/NanmiCoder/MediaCrawler/commits?author=Klu5ure)**
-  - `已合并` 📄 优化了说明文档
+| 项目 | 贡献 | 状态 |
+|---|---|---|
+| [computercraft-live-mcp](https://github.com/slashracer5/computercraft-live-mcp) | 修复中继生成的游戏内连接地址，让其他机器上的客户端能连上中继 | 已合并 |
+| [Narwhals](https://github.com/narwhals-dev/narwhals) | 让 `str.split` 按字面匹配特殊分隔符 | 待审阅 |
+| [Reflex](https://github.com/reflex-dev/reflex) | 澄清 `reflex run` 和 `reflex export` 如何用 `--env` 设置运行模式 | 已合并 |
+| [Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian) | 提交 README 错字修正，主线已修复同一问题 | 已关闭 · 未合并 |
+| [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | 修复数据库查询问题<br>修正 RTMP 推流地址示例<br>修正文档中的错别字和标点 | 已合并 |
+| [Touhou-Star-Salvation](https://github.com/Jasonlmx/Touhou-Star-Salvation) | 优化资源缓存，减少重复读取和运行时卡顿 | 待合并 |
+| [ddia](https://github.com/Vonng/ddia) | 修正 README 中翻译进度描述的笔误 | 已关闭 · 未合并 |
+| [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) | 提交 RTSP 取流中的空指针崩溃修复 | 已关闭 · 未合并 |
+| [MaiBot](https://github.com/Mai-with-u/MaiBot) | 修复表情包系统中的部分问题 | 已合并 |
+| [xclabel](https://github.com/beixiaocai/xclabel) | 修复 Windows 下的兼容性问题 | 已合并 |
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 优化项目说明文档 | 已合并 |
 
 
 ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Klu5ure&theme=github)
